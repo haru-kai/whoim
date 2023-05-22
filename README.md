@@ -11,6 +11,6 @@ Porjeto desenvolvido via:
 -- CSS
 -- Git e Github
 
-## Layou 
+## Layout 🎭
 Vc pode ver o layout do projeto através
 [desse link figma.com/file/QTWaCQOmm1eM7UVDpNNDwW/Cápsula-do-tempo-•-Trilha-Explorer-(Community)?type=design&node-id=306-3&t=SkUS6CLL1g5FAa9g-0]
